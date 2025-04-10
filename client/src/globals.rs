@@ -1,0 +1,16 @@
+pub const DECK_WIDTH: f32 = 0.68; // 65% of screen width
+pub const DECK_HEIGHT: f32 = 0.12; // 12% of screen height
+pub const DECK_X: f32 = 0.30; // Starts at 33% from left
+pub const DECK_Y: f32 = 0.83; // Starts at 83% from top
+pub const CARD_WIDTH: f32 = 0.14; // 12% of screen width
+pub const CARD_HEIGHT: f32 = 0.10; // 8% of screen height
+pub const CARD_SLOT_PADDING_X: f32 = 0.01; // Extra space around cards in slots
+pub const CARD_SLOT_PADDING_Y: f32 = 0.005; // Extra space around cards in slots
+pub const ELIXIR_BAR_HEIGHT: f32 = 0.025; // 2.5% of screen height
+pub const ELIXIR_MARGIN: f32 = 0.015;
+pub const PREVIEW_WIDTH: f32 = 0.12; // 12% of screen width
+pub const PREVIEW_HEIGHT: f32 = 0.08; // 8% of screen height
+pub const PREVIEW_X: f32 = 0.16; // 2% from left
+pub const UNIT_RADIUS: f32 = 0.03; // 3% of virtual width
+pub const TOWER_RADIUS: f32 = 20.0; // Fixed pixel size (scaled later)
+pub const TOWER_RANGE: f32 = 100.0; // Fixed pixel size (scaled later)
